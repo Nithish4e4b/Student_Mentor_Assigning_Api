@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "64a2df72504c81d6d689595c"
+  },
+  "name": "Manikandan",
+  "roll": "1",
+  "class": "GuviB46",
+  "subjects": [
+    "Express js",
+    "React js",
+    "Node js",
+    "MongoDB"
+  ],
+  "gender": "Male",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a2dfb0504c81d6d689595e"
+  },
+  "name": "Nagarajan",
+  "roll": "2",
+  "class": "GuviB47",
+  "subjects": [
+    "Express js",
+    "Angular js",
+    "Node js",
+    "MongoDB"
+  ],
+  "gender": "Male",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a2dffe504c81d6d6895960"
+  },
+  "name": "Srineevasan",
+  "roll": "3",
+  "class": "GuviB48",
+  "subjects": [
+    "UX - UI"
+  ],
+  "gender": "Male",
+  "__v": 0
+}]

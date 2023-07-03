@@ -1,0 +1,154 @@
+[{
+  "_id": {
+    "$oid": "64a2dbdf504c81d6d689594c"
+  },
+  "name": "Nithish Kumar N",
+  "roll": "01",
+  "class": "GuviB46",
+  "registered_on": {
+    "$date": "2023-07-03T14:06:59.369Z"
+  },
+  "subjects": [
+    "Express js",
+    "React js",
+    "Node js",
+    "MongoDB"
+  ],
+  "gender": "male",
+  "contact_no": "9489325128",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a2dc10504c81d6d689594e"
+  },
+  "name": "Ajay B",
+  "roll": "02",
+  "class": "GuviB46",
+  "registered_on": {
+    "$date": "2023-07-03T14:06:59.369Z"
+  },
+  "subjects": [
+    "Express js",
+    "React js",
+    "Node js",
+    "MongoDB"
+  ],
+  "gender": "male",
+  "contact_no": "2222222222",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a2dc37504c81d6d6895950"
+  },
+  "name": "Logesh Kumar N",
+  "roll": "03",
+  "class": "GuviB46",
+  "registered_on": {
+    "$date": "2023-07-03T14:06:59.369Z"
+  },
+  "subjects": [
+    "Express js",
+    "React js",
+    "Node js",
+    "MongoDB"
+  ],
+  "gender": "male",
+  "contact_no": "3333333333",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a2ddbb504c81d6d6895952"
+  },
+  "name": "John",
+  "roll": "04",
+  "class": "GuviB47",
+  "registered_on": {
+    "$date": "2023-07-03T14:06:59.369Z"
+  },
+  "subjects": [
+    "Express js",
+    "Angular js",
+    "Node js",
+    "MongoDB"
+  ],
+  "gender": "male",
+  "contact_no": "4444444444",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a2dddf504c81d6d6895954"
+  },
+  "name": "Karan Kumar",
+  "roll": "05",
+  "class": "GuviB47",
+  "registered_on": {
+    "$date": "2023-07-03T14:06:59.369Z"
+  },
+  "subjects": [
+    "Express js",
+    "Angular js",
+    "Node js",
+    "MongoDB"
+  ],
+  "gender": "male",
+  "contact_no": "5555555555",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a2de3a504c81d6d6895956"
+  },
+  "name": "Antony",
+  "roll": "06",
+  "class": "GuviB47",
+  "registered_on": {
+    "$date": "2023-07-03T14:06:59.369Z"
+  },
+  "subjects": [
+    "Express js",
+    "Angular js",
+    "Node js",
+    "MongoDB"
+  ],
+  "gender": "male",
+  "contact_no": "6666666666",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a2de9e504c81d6d6895958"
+  },
+  "name": "Manasi",
+  "roll": "07",
+  "class": "GuviB48",
+  "registered_on": {
+    "$date": "2023-07-03T14:06:59.369Z"
+  },
+  "subjects": [
+    "UX - UI"
+  ],
+  "gender": "female",
+  "contact_no": "7777777777",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64a2deeb504c81d6d689595a"
+  },
+  "name": "Roshan",
+  "roll": "08",
+  "class": "GuviB48",
+  "registered_on": {
+    "$date": "2023-07-03T14:06:59.369Z"
+  },
+  "subjects": [
+    "UX - UI"
+  ],
+  "gender": "male",
+  "contact_no": "8888888888",
+  "__v": 0
+}]
